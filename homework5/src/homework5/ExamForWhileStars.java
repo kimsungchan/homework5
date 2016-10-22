@@ -1,9 +1,5 @@
 package homework5;
-
 import java.util.Scanner;
-
-
-
 public class ExamForWhileStars {
 
 	public static void main(String[] args) {
