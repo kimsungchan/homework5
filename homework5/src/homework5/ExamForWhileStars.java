@@ -11,14 +11,14 @@ public class ExamForWhileStars {
 		
 		while(true){
 	    System.out.println("**************");
-		System.out.println("¹İº¹¹® ¿¬½ÀÇÏ±â2");
+		System.out.println("ë°˜ë³µë¬¸ì—°ìŠµí•˜ê¸°2");
 		System.out.println("**************");
-		System.out.println("1. Á¤»ó°¢Çø º°Âï±â");
-		System.out.println("2. Á÷°¢»ï°¢Çü º°Âï±â");
-		System.out.println("3. ÀÌµîº¯»ï°¢Çü º°Âï±â");
-		System.out.println("4. ´ÙÀÌ¾Æ¸óµå º°Âï±â");
-		System.out.println("5. Á¾·áÇÏ±â");
-		System.out.print("¿øÇÏ´Â ¸Ş´º´Â >> ");
+		System.out.println("1. ì •ì‚¬ê°í˜• ë³„ì°ê¸°");
+		System.out.println("2. ì§ê°ì‚¼ê°í˜• ë³„ì°ê¸°");
+		System.out.println("3. ì´ë“±ë³€ì‚¼ê°í˜• ë³„ì°ê¸°");
+		System.out.println("4. ë‹¤ì´ì•„ëª¬ë“œ ë³„ì°ê¸°");
+		System.out.println("5. ì¢…ë£Œí•˜ê¸°");
+		System.out.print("ì›í•˜ëŠ” ë©”ë‰´ëŠ” ");
 		int number = s.nextInt();
 		
 		if(number == 1){
