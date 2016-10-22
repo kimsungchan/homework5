@@ -6,7 +6,7 @@ public class RectagleStars {
     	 Scanner s = new Scanner(System.in);
     	 
     	 System.out.println("============================");
-    	 System.out.println("Á¤»ç°¢Çü Å©±âÀÔ·Â : ");
+    	 System.out.println("ì •ì‚¬ê°í˜• í¬ê¸° ì…ë ¥ : ");
     	 int square = s.nextInt();
     	 
     	 for(int i=0 ; i < square ; i++){
