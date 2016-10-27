@@ -19,7 +19,7 @@ public class IsoscelesTriangleStars2 {
    		     for(int j = 0 ; j< i-1 ; j++){
    		    	 System.out.print("*");
    		     }
-   		         System.out.print("\n");
+   		         System.out.println();
    	    } 
    	        
    	         for(int i = 0 ; i < square ; i++){
@@ -32,7 +32,7 @@ public class IsoscelesTriangleStars2 {
    	           for(int j = i + 1  ; j < square ; j++){
    	        	   System.out.print("*");
    	           }
-   	           System.out.print("\n");
+   	           System.out.println();
    	    }      
    }
 }
